@@ -1,1 +1,1 @@
-# GradeReportingWeb2
+# EduReport
