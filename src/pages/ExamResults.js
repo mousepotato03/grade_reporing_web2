@@ -7,7 +7,7 @@ function ExamResults() {
 1.학생: {name}
 
 2.단원: {examName}
-
+    
 3.점수: {score}/{maxScore} ({passed})
 
 *재시험자는 토요일 11시 20분까지 등원

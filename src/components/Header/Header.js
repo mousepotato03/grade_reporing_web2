@@ -8,19 +8,19 @@ function Header() {
       <div className="container">
         {/* 로고 */}
         <h1 className="logo">
-          <div class="logo">
+          <Link to="/" class="logo">
             <span class="edu">Edu</span><span class="report">Report</span>
-          </div>
+          </Link>
         </h1>
 
         {/* 네비게이션 */}
         <nav>
           <ul className="nav-list">
             <li>
-              <Link to="/" className="nav-item">홈</Link>
+              <Link to="/dashboard" className="nav-item">대시보드</Link>
             </li>
             <li>
-              <Link to="/exam-results" className="nav-item">학생 관리</Link>
+              <Link to="/student" className="nav-item">학생 관리</Link>
             </li>
           </ul>
         </nav>

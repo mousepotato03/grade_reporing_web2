@@ -19,7 +19,7 @@
 
 /* 로고 스타일 */
 .logo {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     letter-spacing: 1px;
     text-decoration: none;
@@ -27,12 +27,12 @@
 
 .edu {
     color: white; /* 흰색 글자 */
-    text-shadow: 1px 1px 2px black, 0 0 15px black, 0 0 5px darkgray; /* 글자 테두리 효과 */
+    text-shadow: 1px 1px 2px black, 0 0 10px black, 0 0 5px darkgray; /* 글자 테두리 효과 */
 }
 
 .report {
     color: #facc15; /* 노란색 글자 */
-    text-shadow: 1px 1px 2px black, 0 0 15px black, 0 0 5px darkgray; /* 글자 테두리 효과 */
+    text-shadow: 1px 1px 2px black, 0 0 10px black, 0 0 5px darkgray; /* 글자 테두리 효과 */
 }
 
 /* 네비게이션 */
